@@ -1,5 +1,5 @@
 # Momentum Fade - Research Log
- 
+
 ## Strategy Overview
 - **Strategy Name:** Momentum Fade
 - **Category:** Original
